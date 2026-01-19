@@ -1,0 +1,19 @@
+path: ./Custom_Object_Detector
+train: images/train
+val: images/val
+names:
+  0: Human face
+  1: banana_in_bag
+  2: banana
+  3: blackberries
+  4: respberry
+  5: lemon_in_bag
+  6: lemon
+  7: grapes_in_bag
+  8: grapes
+  9: tomato_in_bag
+  10: tomoto
+  11: apple_in_bag
+  12: apple
+  13: chilli_in_bag
+  14: chilli

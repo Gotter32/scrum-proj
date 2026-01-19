@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset
+https://www.kaggle.com/datasets/kvnpatel/fruits-vegetable-detection-for-yolov4
