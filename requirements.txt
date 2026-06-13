@@ -1,6 +1,0 @@
-cv2
-numpy
-fastapi
-ultralytics
-uvicorn
-requests
